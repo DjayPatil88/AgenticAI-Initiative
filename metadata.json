@@ -1,0 +1,5 @@
+{
+  "name": "Vocera Analytics AI Diagnostics",
+  "description": "AI-powered diagnostic agent for Vocera Analytics logs, identifying configuration errors and connection issues across Play and Tomcat servers.",
+  "requestFramePermissions": []
+}
